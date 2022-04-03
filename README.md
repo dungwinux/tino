@@ -17,7 +17,7 @@ What doesn't work:
 - _Some edge cases that I didn't have time to figure out_
 
 
-> This program was originally designed to generate valid file for challenge `mere` in UMassCTF 2022.
+> This program was originally designed to generate valid file for challenge `tino` in UMassCTF 2022.
 
 ### License
 
