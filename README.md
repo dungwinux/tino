@@ -4,7 +4,7 @@
 
 _**T**ino **I**s **N**ot **O**bfuscator_
 
-C++20 source code scanner to replace C++ keywords and identifiers with `_`.
+C++20 source code scanner to replace C++ keywords and identifiers with `_`. This was done in less than 1 day.
 
 What works:
 
