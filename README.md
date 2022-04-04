@@ -10,10 +10,12 @@ What works:
 
 - Most of C++ features
 - `#define`, `#include`, ... macros exclusion.
+- `//` inline comments
 
 What doesn't work:
 
 - Multi-line macros
+- Multi-line comments
 - Variable names with only underscore (causes conflict)
 - _Some edge cases that I didn't have time to figure out_
 
