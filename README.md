@@ -13,7 +13,8 @@ What works:
 
 What doesn't work:
 
-- Multiline macros
+- Multi-line macros
+- Variable names with only underscore (causes conflict)
 - _Some edge cases that I didn't have time to figure out_
 
 
